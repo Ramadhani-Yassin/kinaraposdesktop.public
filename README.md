@@ -1,0 +1,4 @@
+# KinaraPOS Desktop Updates
+
+Public release artifacts for the KinaraPOS desktop updater.
+Signer pubkey: dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDE2OEJCNkU4MDlBODM0QwpSV1JNZzVxQWJydG9BYkF2ZmhybFVnaUVjQWgrWGpkb2lTdG82QWhTQXJtaFU4UXBzZGQ1a00wYQo=
